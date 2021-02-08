@@ -1,0 +1,1 @@
+The directory contains practice for the corse "Автоматизация тестирования с помощью Selenium и Python"
