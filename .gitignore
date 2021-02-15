@@ -130,3 +130,4 @@ dmypy.json
 
 .idea/
 .vscode/
+/Lessons/l-3.5/.pytest_cache/
